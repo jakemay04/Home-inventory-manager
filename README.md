@@ -5,4 +5,4 @@ Currently only runs in python terminal
 
 # Test invalid inputs
 * Create barcode management
-* * impliment SQL integration
+* impliment SQL integration
