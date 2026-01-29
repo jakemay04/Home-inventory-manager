@@ -3,6 +3,6 @@ Add, delete and manage low stock of food in your own kitchen. Keep track using l
 
 Currently only runs in python terminal
 
---Test invalid inputs
---Create barcode management
---impliment SQL integration
+# Test invalid inputs
+* Create barcode management
+* * impliment SQL integration
